@@ -34,4 +34,7 @@ Here, I collect and organize all the topics I’m studying so I can easily acces
 
 ---
 
-*Created with ❤️ by [Ali Rahmati]*
+> ## 📝 About the Author
+> #### Crafted with care and ❤️ by [Ali Rahmati](https://github.com/alirahmti). 👨‍💻
+> If this repo saved you time or solved a problem, a ⭐ means everything in the DevOps world. 🧠💾
+> Your star ⭐ is like a high five from the terminal — thanks for the support! 🙌🐧
